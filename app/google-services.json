@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "998484945651",
+    "firebase_url": "https://fireblog-2ab41.firebaseio.com",
+    "project_id": "fireblog-2ab41",
+    "storage_bucket": "fireblog-2ab41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998484945651:android:8aa3b48def6f3707",
+        "android_client_info": {
+          "package_name": "com.testography.fireblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998484945651-bub25rnf67uo7tinbnk9i0mhp4452jor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAclyMuToIkgliVTXtSi_ed_CE44nlsXr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
