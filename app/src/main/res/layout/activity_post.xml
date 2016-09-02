@@ -11,7 +11,7 @@
         android:scaleType="centerCrop"
         android:src="@mipmap/add_btn"
         android:background="#00ffffff"
-        android:id="@+id/imageButton"
+        android:id="@+id/imageSelect"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_width="match_parent"
@@ -22,7 +22,7 @@
         android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:layout_below="@id/imageButton"
+        android:layout_below="@id/imageSelect"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
@@ -33,7 +33,7 @@
             android:background="@drawable/input_outline"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/editText"
+            android:id="@+id/titleField"
             android:layout_centerHorizontal="true"/>
 
         <EditText
@@ -45,7 +45,7 @@
             android:layout_height="wrap_content"
             android:inputType="textMultiLine"
             android:ems="10"
-            android:id="@+id/editText2"
+            android:id="@+id/descField"
             android:layout_centerHorizontal="true"/>
     </LinearLayout>
 
@@ -55,7 +55,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Submit Post"
-        android:id="@+id/button"
+        android:id="@+id/submitButton"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"/>
 
